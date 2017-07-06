@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebRoot/pages/admin/modifySuccess.jsp=UTF-8
+encoding//WebRoot/pages/admin/modifydishes.jsp=UTF-8
+encoding//src/com/chinasofti/ordersys/service/admin/DishesService.java=UTF-8
+encoding//src/com/chinasofti/ordersys/service/admin/UserService.java=UTF-8
+encoding//src/com/chinasofti/ordersys/service/waiters/OrderDishesService.java=UTF-8
+encoding//src/com/chinasofti/ordersys/servlets/login/UserLoginServlet.java=UTF-8
+encoding//src/com/chinasofti/ordersys/servlets/query/ToQueryServlet.java=UTF-8
